@@ -1,8 +1,8 @@
 # Les jardins de la bruyère
 
-[![Java 101 Card](https://visitor-badge.glitch.me/badge?page_id=JardinsBruyere)](https://github.com/JardinsBruyere)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![Java 101 Card](https://visitor-badge.glitch.me/badge?page_id=JardinsBruyere)](https://visitor-badge.glitch.me/badge?page_id=JardinsBruyere)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/images/badges/built-with-love.svg)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com/images/badges/uses-badges.svg)
 
 
 
