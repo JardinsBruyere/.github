@@ -16,5 +16,5 @@
 
 Une documentation est disponible ici : https://jardinsbruyere.github.io/Rapport/
 
-Si jamais vous trouvez une erreur, un bug, une fautes d'orthographe ou autre, n'hésitez pas à créer une issues sur le repository consacré 
+Si jamais vous trouvez une erreur, un bug, une faute d'orthographe ou autre, n'hésitez pas à créer une issues sur le repository consacré 
 
