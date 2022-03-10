@@ -1,4 +1,4 @@
-## Les jardins de la bruyère
+# Les jardins de la bruyère
 
 [![Java 101 Card](https://visitor-badge.glitch.me/badge?page_id=JardinsBruyere)](https://github.com/JardinsBruyere)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -6,7 +6,7 @@
 
 
 
-Dans ce projet vous trouverez plusieurs projets différents :
+## Dans ce projet vous trouverez différentes parties :
 
 | Les capteurs | [![Java 101 Card](https://github-readme-stats.vercel.app/api/pin/?username=JardinsBruyere&repo=WeatherStation&theme=highcontrast)](https://github.com/JardinsBruyere/WeatherStation) | ![GitHub last commit](https://img.shields.io/github/last-commit/JardinsBruyere/WeatherStation) ![GitHub top language](https://img.shields.io/github/languages/top/JardinsBruyere/WeatherStation?style=flat-square)![Lines of code](https://img.shields.io/tokei/lines/github/JardinsBruyere/WeatherStation) ![GitHub repo size](https://img.shields.io/github/repo-size/JardinsBruyere/WeatherStation)|
 |---|---|---|
@@ -15,4 +15,6 @@ Dans ce projet vous trouverez plusieurs projets différents :
 | Le serveur | [![Java 101 Card](https://github-readme-stats.vercel.app/api/pin/?username=JardinsBruyere&repo=Serveur2.0&theme=highcontrast)](https://github.com/JardinsBruyere/Serveur2.0) | ![GitHub last commit](https://img.shields.io/github/last-commit/JardinsBruyere/Serveur2.0)![GitHub top language](https://img.shields.io/github/languages/top/JardinsBruyere/Serveur2.0?style=flat-square) ![Lines of code](https://img.shields.io/tokei/lines/github/JardinsBruyere/Serveur2.0) ![GitHub repo size](https://img.shields.io/github/repo-size/JardinsBruyere/Serveur2.0)|
 
 Une documentation est disponible ici : https://jardinsbruyere.github.io/Rapport/
+
+Si jamais vous trouvez une erreur, un bug, une fautes d'orthographe ou autre, n'hésitez pas à créer une issues sur le repository consacré 
 
