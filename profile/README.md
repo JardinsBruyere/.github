@@ -15,7 +15,8 @@
 | Le serveur | [![Java 101 Card](https://github-readme-stats.vercel.app/api/pin/?username=JardinsBruyere&repo=Serveur&theme=highcontrast)](https://github.com/JardinsBruyere/Serveur) | ![GitHub last commit](https://img.shields.io/github/last-commit/JardinsBruyere/Serveur)![GitHub top language](https://img.shields.io/github/languages/top/JardinsBruyere/Serveur?style=flat-square) ![Lines of code](https://img.shields.io/tokei/lines/github/JardinsBruyere/Serveur) ![GitHub repo size](https://img.shields.io/github/repo-size/JardinsBruyere/Serveur)|
 
 Une documentation est disponible ici : https://jardinsbruyere.github.io/Rapport/
+
 Documentaiton de l'API: https://app.swaggerhub.com/apis-docs/Hikachhu/JardinsBruyere/1.0.0
 
-Si jamais vous trouvez une erreur, un bug, une faute d'orthographe ou autre, n'hésitez pas à créer une issues sur le repository consacré 
+Si jamais vous trouvez une erreur, un bug, une faute d'orthographe ou autre, n'hésitez pas à créer une issues sur le repository consacré ou en parler dans la discussion du projet ici :https://github.com/JardinsBruyere/.github/discussions
 
